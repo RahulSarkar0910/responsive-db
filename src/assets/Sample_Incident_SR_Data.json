@@ -1,0 +1,162 @@
+[
+	{
+		"Open Time": "30-06-2023 14:24",
+		"Request ID": "RF-23-082327",
+		"Status": "Completed",
+		"Title": "New employee Onboard - Jack Simon",
+		"Close Time": "",
+		"Priority": "4 - Low"
+	},
+	{
+		"Open Time": "30-06-2023 15:07",
+		"Request ID": "RF-23-082338",
+		"Status": "Completed",
+		"Title": "New Joiner Setup",
+		"Close Time": "",
+		"Priority": "4 - Low"
+	},
+	{
+		"Open Time": "04-07-2023 13:43",
+		"Request ID": "RF-23-083467",
+		"Status": "Completed",
+		"Title": "I Need a new monitor with docking for the new PC",
+		"Close Time": "",
+		"Priority": "4 - Low"
+	},
+	{
+		"Open Time": "04-07-2023 14:41",
+		"Request ID": "RF-23-083485",
+		"Status": "Completed",
+		"Title": "Request for personal Hana accounts creation",
+		"Close Time": "",
+		"Priority": "3 - Average"
+	},
+	{
+		"Open Time": "04-07-2023 17:00",
+		"Request ID": "RF-23-083563",
+		"Status": "Completed",
+		"Title": "PeopleStong mobile app onboard",
+		"Close Time": "",
+		"Priority": "5 - Work Order"
+	},
+	{
+		"Open Time": "05-07-2023 13:31",
+		"Request ID": "RF-23-083973",
+		"Status": "Completed",
+		"Title": "Exclude VMWare ESXi host from Anti-virus and Patches update.",
+		"Close Time": "",
+		"Priority": "4 - Low"
+	},
+	{
+		"Open Time": "06-07-2023 11:28",
+		"Request ID": "RF-23-084539",
+		"Status": "Completed",
+		"Title": "A new PC need to scan invoice from AP team",
+		"Close Time": "",
+		"Priority": "3 - Average"
+	},
+	{
+		"Open Time": "06-07-2023 15:42",
+		"Request ID": "RF-23-084679",
+		"Status": "In Progress",
+		"Title": "Laptop replacement",
+		"Close Time": "",
+		"Priority": "5 - Work Order"
+	},
+	{
+		"Open Time": "06-07-2023 16:50",
+		"Request ID": "RF-23-084716",
+		"Status": "In Progress",
+		"Title": "Power Toys Image reducer application",
+		"Close Time": "",
+		"Priority": "5 - Work Order"
+	},
+	{
+		"Open Time": "06-07-2023 22:43",
+		"Request ID": "RF-23-084972",
+		"Status": "In Progress",
+		"Title": "Create new roles as per the below requirement.",
+		"Close Time": "",
+		"Priority": "5 - Work Order"
+	},
+	{
+		"Open Time": "07-07-2023 00:38",
+		"Request ID": "RF-23-085022",
+		"Status": "In Progress",
+		"Title": "TeamViewer for John Gart",
+		"Close Time": "",
+		"Priority": "5 - Work Order"
+	},
+	{
+		"Open Time": "18-08-2023 14:35",
+		"Request ID": "RF-23-085574",
+		"Status": "In Progress",
+		"Title": "Remove Repcelak SSS due to a new server is configured as a DP",
+		"Close Time": "",
+		"Priority": "5 - Work Order"
+	},
+	{
+		"Open Time": "18-08-2023 14:44",
+		"Request ID": "RF-23-085695",
+		"Status": "In Progress",
+		"Title": "iPad 9 tablet purchase as part of the German NNU concept project",
+		"Close Time": "",
+		"Priority": "3 - Average"
+	},
+	{
+		"Open Time": "18-08-2023 15:14",
+		"Request ID": "RF-23-085711",
+		"Status": "In Progress",
+		"Title": "for getting access to rapid7 InsightVM console",
+		"Close Time": "",
+		"Priority": "3 - Average"
+	},
+	{
+		"Open Time": "18-08-2023 15:24",
+		"Request ID": "RF-23-087032",
+		"Status": "In Progress",
+		"Title": "New monitor with HDMI conection",
+		"Close Time": "",
+		"Priority": "3 - Average"
+	},
+	{
+		"Open Time": "18-08-2023 15:25",
+		"Request ID": "RF-23-087202",
+		"Status": "Pending Approval",
+		"Title": "Re-activation of LE User Account",
+		"Close Time": "",
+		"Priority": "3 - Average"
+	},
+	{
+		"Open Time": "18-08-2023 17:29",
+		"Request ID": "RF-23-087319",
+		"Status": "Pending Approval",
+		"Title": "Assign New Computer",
+		"Close Time": "",
+		"Priority": "3 - Average"
+	},
+	{
+		"Open Time": "18-08-2023 18:28",
+		"Request ID": "RF-23-087621",
+		"Status": "Pending Approval",
+		"Title": "New Server - 1490",
+		"Close Time": "",
+		"Priority": "3 - Average"
+	},
+	{
+		"Open Time": "18-08-2023 18:39",
+		"Request ID": "RF-23-087636",
+		"Status": "Pending Approval",
+		"Title": "Visio Software required",
+		"Close Time": "",
+		"Priority": "3 - Average"
+	},
+	{
+		"Open Time": "18-08-2023 18:50",
+		"Request ID": "RF-23-090542",
+		"Status": "Pending Approval",
+		"Title": "Software for my new Laptop",
+		"Close Time": "",
+		"Priority": "5 - Work Order"
+	}
+]

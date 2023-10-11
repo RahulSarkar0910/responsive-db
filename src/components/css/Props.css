@@ -1,0 +1,94 @@
+.Title {
+    height: 100px;
+    width: 100%;
+    background-color: #27374D;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.Title h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 20px;
+    font-size: 30px;
+    color: #fff;
+}
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 20px;
+    font-size: 30px;
+    color: #27374D;
+}
+
+.Title span {
+    padding: 30px 20px 80px 550px;
+    color: #fff;
+}
+
+ .box{
+    display: grid;
+    margin: 0px;
+    padding: 0px;
+    height: 93.4vh;
+    width: 1100px;
+}
+
+ .side-bar {
+    height: 180vh;
+    width: 300px;
+    background-color: #27374D;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+} 
+
+.SidebarList {
+    height: 100%;
+    padding: 0px;
+    width: 100%;
+}
+
+.SidebarList .row {
+    height: 60px;
+    width: 100%;
+    list-style-type: none;
+    margin: 0%;
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.SidebarList .row:hover {
+    cursor: pointer;
+    background-color: #000000;
+}
+
+.SidebarList #active {
+    background-color: #000000;
+}
+
+.SidebarList #icon {
+    flex: 30%;
+    display: grid;
+    place-items: center;
+}
+
+.SidebarList #title {
+    flex: 70%;
+}
+
+.chart-1 {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+   
+}
+
+.chart-2 {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    padding-top: 60px;
+
+}
+
+.box .chart-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

@@ -1,0 +1,39 @@
+.container {
+    width: 700%;
+    margin-top: 50px;
+    padding: 45px;
+    position: absolute;
+}
+
+.row {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.col-md-7 {
+    padding: 20px;
+}
+
+.col-md-5 {
+    padding: 50px;
+    background-color: #1089ff;
+    color: white;
+}
+
+.d-flex {
+    font-size: 20px;
+}
+
+.d-flex p{
+    font-size: 18px;
+    padding-left: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@media only screen and (max-width: 600px){
+    .container{
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        top: 90%;
+    }
+}
